@@ -11,7 +11,7 @@ Given a seed phrase like `"sherlock holmes was"`, the model predicts what word i
 | File | Description |
 |---|---|
 | `Next_Word_Predictor_LSTM_vs_GRU_FINAL.ipynb` | Final, fully-run notebook — the complete pipeline from raw text to trained models to generated text |
-| `Next_Word_Predictor_LSTM_v1.ipynb` | Earlier version — single LSTM, smaller dataset |
+
 
 ---
 
